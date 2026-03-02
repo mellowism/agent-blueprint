@@ -10,7 +10,7 @@
       "status": "active",
       "persona": "methodical",
       "contexts": ["personal"],
-      "requiredSources": ["desktop-commander"],
+      "requiredSources": [],
       "label": "architect",
       "createdAt": "{{SETUP_DATE}}"
     }

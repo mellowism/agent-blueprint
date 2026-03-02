@@ -1,8 +1,6 @@
 ---
 name: "Architect"
-description: "Boot the Architect agent with required sources"
-requiredSources:
-  - desktop-commander
+description: "Boot the Architect agent"
 ---
 
 # Architect

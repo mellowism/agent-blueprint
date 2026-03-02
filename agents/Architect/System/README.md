@@ -12,7 +12,7 @@ The Architect designs and scaffolds new AI agents from templates. Factory model 
 
 ## Required Sources
 
-- **Desktop Commander** — file system access for creating agent folders and files
+None — the Architect uses Craft Agent's built-in file tools (Read, Write, Edit, Bash).
 
 ## Key Workflows
 

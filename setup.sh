@@ -152,9 +152,8 @@ if $ALL_GOOD; then
     echo "Next steps:"
     echo "  1. Open Craft Agent"
     echo "  2. Make sure your workspace points to: $WORKSPACE_PATH"
-    echo "  3. Add a 'desktop-commander' source (the Architect needs file system access)"
-    echo "  4. Start a new session and type /start"
-    echo "  5. Select Architect — then create your first agent!"
+    echo "  3. Start a new session and type /start"
+    echo "  4. Select Architect - then create your first agent!"
     echo ""
 else
     echo "Setup completed with errors. Check the MISSING files above."

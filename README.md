@@ -15,7 +15,6 @@ Life OS gives you modular AI agents — each with its own persona, responsibilit
 
 - [Craft Agent](https://craft.do) installed
 - A workspace configured in Craft Agent
-- Desktop Commander source added (the Architect needs file system access)
 
 ## Quick Start
 
@@ -49,10 +48,9 @@ The setup script asks two questions:
 
 1. Open Craft Agent
 2. Verify your workspace is pointed at the correct path
-3. Add a **Desktop Commander** source if you don't have one
-4. Start a new session and type `/start`
-5. Select **Architect**
-6. Say "I need a new agent" — the Architect walks you through creating your first one
+3. Start a new session and type `/start`
+4. Select **Architect**
+5. Say "I need a new agent" — the Architect walks you through creating your first one
 
 ## How It Works
 

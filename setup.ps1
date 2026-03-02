@@ -174,9 +174,8 @@ if ($allGood) {
     Write-Host "Next steps:" -ForegroundColor Cyan
     Write-Host "  1. Open Craft Agent"
     Write-Host "  2. Make sure your workspace points to: $WorkspacePath"
-    Write-Host "  3. Add a 'desktop-commander' source (the Architect needs file system access)"
-    Write-Host "  4. Start a new session and type /start"
-    Write-Host "  5. Select Architect - then create your first agent!"
+    Write-Host "  3. Start a new session and type /start"
+    Write-Host "  4. Select Architect - then create your first agent!"
     Write-Host ""
 } else {
     Write-Host "Setup completed with errors. Check the MISSING files above." -ForegroundColor Red
