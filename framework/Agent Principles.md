@@ -57,7 +57,8 @@ If during your work you realize something would benefit from another agent's exp
 
 ```yaml
 ---
-type: task
+tags:
+  - task
 status: inbox
 assigned-to: "{Human Owner}"
 delegated-to: "{Target Agent Name}"
