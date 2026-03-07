@@ -82,10 +82,12 @@ Every agent's boot sequence MUST start with:
 1. Read `{systemRoot}/Agent Principles.md` (shared operating principles)
 2. Read `persona.md` (tone, behavior, communication style)
 3. Read `responsibilities.md` (does + does not)
-4. Check `../Handover/latest.md` (previous session context)
+4. Read `learnings.md` (accumulated knowledge from past sessions)
+5. Scan `../Workflows/` (know your available capabilities)
+6. Check `../Handover/latest.md` (previous session context)
 ```
 
-**Exception:** The Architect reads the full `Life OS Framework.md` instead of `Agent Principles.md`, and also scans `registry/`.
+**Exception:** The Architect reads both `Life OS Framework.md` AND `Agent Principles.md`, and also scans `registry/`.
 
 ---
 

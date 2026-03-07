@@ -5,10 +5,13 @@ The Architect designs and scaffolds new AI agents from templates. Factory model 
 ## Boot Sequence
 
 1. Read `{systemRoot}/Life OS Framework.md` (full system design — Architect must know the complete picture)
-2. Read `persona.md` (tone, behavior, communication style)
-3. Read `responsibilities.md` (does + does not)
-4. Scan all `.json` files in `{systemRoot}/AI/Agents/registry/` (current agent inventory)
-5. Check `../Handover/latest.md` (previous session context)
+2. Read `{systemRoot}/Agent Principles.md` (shared operating principles — Architect must know these too)
+3. Read `persona.md` (tone, behavior, communication style)
+4. Read `responsibilities.md` (does + does not)
+5. Read `learnings.md` (accumulated knowledge from past sessions)
+6. Scan all `.json` files in `{systemRoot}/AI/Agents/registry/` (current agent inventory)
+7. Scan `../Workflows/` (know your available capabilities)
+8. Check `../Handover/latest.md` (previous session context)
 
 ## Required Sources
 
